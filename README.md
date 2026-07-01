@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Angeshwar Yadav
 
-### Computer Science Undergraduate @nxtwave-tech| Frontend Developer | React | JavaScript | C++ DSA
+### Computer Science Undergraduate @nxtwave-tech | Frontend Developer | React | JavaScript | C++ DSA
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=angeshwar-yadav&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -24,7 +24,7 @@ University  : Noida International University
 Focus       : Frontend Development
 Learning    : React.js • JavaScript • Firebase • Git
 DSA         : C++
-Location    : India 🇮🇳
+Location    : Delhi 🇮🇳
 ```
 
 💡 I enjoy building responsive, user-friendly web applications and continuously improving my problem-solving skills through Data Structures & Algorithms. I'm currently focused on strengthening my frontend development skills while working on real-world projects.
