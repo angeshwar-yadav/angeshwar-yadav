@@ -20,7 +20,7 @@
 ```yaml
 Name        : Angeshwar Yadav
 Education   : B.Tech in Computer Science Engineering
-University  : Noida International University
+University  : Noida International University X NxtWave Institute of Advanced Technologies
 Focus       : Frontend Development
 Learning    : React.js • JavaScript • Firebase • Git
 DSA         : C++
