@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Angeshwar Yadav
 
-### Computer Science Undergraduate @ Noida International University | Frontend Developer | React | JavaScript | C++ DSA
+### Computer Science Undergraduate @nxtwave-tech| Frontend Developer | React | JavaScript | C++ DSA
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=angeshwar-yadav&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
